@@ -1,0 +1,13 @@
+com\comp4321\searchenginebackend\services\SearchEngineService.class
+com\comp4321\searchenginebackend\services\JdbmService.class
+com\comp4321\searchenginebackend\models\Page.class
+com\comp4321\searchenginebackend\controllers\MainController.class
+com\comp4321\searchenginebackend\utils\NewString.class
+com\comp4321\searchenginebackend\models\PageResponse.class
+com\comp4321\searchenginebackend\utils\Porter.class
+com\comp4321\searchenginebackend\utils\Crawler.class
+com\comp4321\searchenginebackend\utils\StopStem.class
+com\comp4321\searchenginebackend\models\CrawledPage.class
+com\comp4321\searchenginebackend\services\CrawlerService.class
+com\comp4321\searchenginebackend\SearchEngineProjectApplication.class
+com\comp4321\searchenginebackend\utils\VectorSpaceModel.class
