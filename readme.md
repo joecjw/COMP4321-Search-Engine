@@ -1,16 +1,12 @@
-# Final Phase Program Specification
+# COMP4321 Search Engine Project Specification
 
 ## File Structure
-
-After unzipping the folder, You should see the following:
-
-- This `readme.md` file
 
 - A `ui-guide-images` folder containing images for the user manual section below
 
 - A `Final Phase Report.pdf` Documentation
 
-- The Final Program Directory called `search-engine`
+- The Program Directory called `search-engine`
 
 ## Installation Procedures
 
